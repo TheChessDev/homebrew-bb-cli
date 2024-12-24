@@ -1,8 +1,8 @@
 class BbCli < Formula
   desc "Command-line tool for interacting with Bitbucket repositories"
   homepage "https://github.com/TheChessDev/bb-cli"
-  url "https://github.com/TheChessDev/bb-cli/archive/v0.3.2.tar.gz"
-  sha256 "240c3864294ac611be2174bf4347e878b7a70b88fd0127560a26cd5a993dbd6b"
+  url "https://github.com/TheChessDev/bb-cli/archive/v0.4.0.tar.gz"
+  sha256 "0ea005bea9e06222ba91dc0d78a2d3a65069a1df47da7ce06a7262fc8fbc53b3"
   license "MIT"
 
   depends_on "go" => :build
